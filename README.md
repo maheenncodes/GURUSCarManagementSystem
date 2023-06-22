@@ -1,6 +1,6 @@
 # Gurus Car Management System - README
 
-Welcome to the Vehicle Management System! This system provides a comprehensive solution for managing vehicles, employees, attendance, and vehicle rental/sale records. It consists of two dashboards: an Admin Dashboard and an Employee Dashboard. This README file will guide you through the setup and usage of the application.
+Welcome to the Gurus Car Management System! This system provides a comprehensive solution for managing vehicles, employees, attendance, and vehicle rental/sale records. It consists of two dashboards: an Admin Dashboard and an Employee Dashboard. This README file will guide you through the setup and usage of the application.
 
 ## Features
 
