@@ -34,7 +34,7 @@ Follow the steps below to set up and run the Vehicle Management System on your l
 1. Clone the repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/vehicle-management-system.git
+   git clone https://github.com/maheenncodes/GURUSCarManagementSystem.git
 
 2. Configure the database:
  - Create a new database 'management' for the application using MySQL Workbench
